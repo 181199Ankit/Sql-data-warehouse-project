@@ -39,5 +39,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I'm **Ankit**, Aspiring Data Engineer / EX-Full-Time Junior Data Analyst at **Crown Packers and Movers**/ Microsoft: Power BI Data Analyst(**PL-300**)
+Hi there! I'm **Ankit**, Aspiring Data Engineer / EX-Full-Time Junior Data Analyst at **Crown Packers and Movers**/ Microsoft: Power BI Data Analyst(**PL-300**).
   
